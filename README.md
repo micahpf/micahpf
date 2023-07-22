@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micahpf&theme=default)
+
+[![GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=micahpf&include_orgs=true)](https://github.com/micahpf/github-readme-stats)
+
+Top Langs
+
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=micahpf&include_orgs=true)](https://github.com/micahpf/github-readme-stats)
+
