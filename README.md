@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=micahpf&include_orgs=true)](https://github.com/micahpf/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=micahpf&include_orgs=true&hide=html)](https://github.com/micahpf/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=micahpf&include_orgs=true&layout=compact&hide=html)](https://github.com/micahpf/github-readme-stats)
 
